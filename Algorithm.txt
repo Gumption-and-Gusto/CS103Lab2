@@ -1,0 +1,6 @@
+1. Prompt user to input week start and end dates
+2. Receive input
+3. Prompt user to input employee information piece by piece for 5 employees
+4. Receive input and store in array structure
+5. Begin outputting payslips, calculating overtime where over 40 hours worked((hours-40)/2)), gross pay, tax, and net pay
+6. Output report of totals of all 5 gross, tax, and net
